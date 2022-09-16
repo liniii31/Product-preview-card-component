@@ -12,12 +12,12 @@ Thanks for checking out my front-end coding challenge.
 
 ## The challenge
 Build a responsive component for both desktop and mobile versions.
-### Desktop-design
-Layout:1147px
+
 
 ![Desktop Design](./design/desktop-design.jpg)
 ### Desktop-design
 Layout:1147px
 
 ![Mobile Design](./design/mobile-design.jpg)
-
+### Mobile-design
+Layout:375px
