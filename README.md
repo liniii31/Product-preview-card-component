@@ -14,10 +14,14 @@ Thanks for checking out my front-end coding challenge.
 Build a responsive component for both desktop and mobile versions.
 
 
-![Desktop Design](./design/desktop-design.jpg)
+
 ### Desktop-design
 Layout:1147px
 
-![Mobile Design](./design/mobile-design.jpg)
+![Desktop Design](./design/desktop-design.jpg)
+
+
 ### Mobile-design
 Layout:375px
+
+![Mobile Design](./design/mobile-design.jpg)
